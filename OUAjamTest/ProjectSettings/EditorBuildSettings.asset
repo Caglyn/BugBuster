@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: bf90483cb34332a43ad85c1b4153f249
+  - enabled: 1
+    path: Assets/oua.unity
+    guid: b99ed6e7d7cf1cb4083d7d175993321c
+  - enabled: 1
+    path: Assets/StarterAssets/FirstPersonController/Scenes/BitirilmemisParkur.unity
+    guid: 707acc8dffb72b144bb1ffbe1c965f3d
+  - enabled: 1
+    path: Assets/Scenes/ButtonLevel.unity
+    guid: b1504cbce7c00b04eaaa76c92a82abdd
+  - enabled: 1
+    path: Assets/Scenes/PortalLevel.unity
+    guid: c58065ddf5dbfd94a97068d9db325bc1
+  - enabled: 1
+    path: Assets/oua 1.unity
+    guid: cd800e9075ec50e43a57e7503e4b8cef
+  - enabled: 1
+    path: Assets/Scenes/VideoSonOynatici.unity
+    guid: b510c981280d50a448b2d8e2318ec223
+  m_configObjects: {}
